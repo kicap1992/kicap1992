@@ -18,7 +18,7 @@ I am Adrianus Aransina T, my friend call me Aran, currently working as freelance
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitHub](https://img.shields.io/badge/-PHP-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-PHP-181717?style=flat-square&logo=PHP)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kicap1992&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kicap1992&hide=TeX&layout=compact)
