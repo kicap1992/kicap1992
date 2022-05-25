@@ -1,4 +1,4 @@
-## Hello There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"
+## Hello There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px">
 
 I am Adrianus Aransina T, my friend call me Aran, currently working as freelancer software developer.  Find out more about me & feel free to connect with me here:
 
