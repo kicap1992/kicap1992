@@ -6,7 +6,7 @@ I am Adrianus Aransina T, my friend call me Aran, currently working as freelance
 [![Instagram Badge](https://img.shields.io/badge/-Kicap%20Karan-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kicap_karan/)](https://www.instagram.com/kicap_karan/)
 [![Youtube Badge](https://img.shields.io/badge/-Kicap%20Karan-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC1mGRXTGGyXo0WwFwDCARig)](https://www.youtube.com/channel/UC1mGRXTGGyXo0WwFwDCARig)
 [![Gmail Badge](https://img.shields.io/badge/-kicap.karan92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kicap.karan92@gmail.com)](mailto:kicap.karan92@gmail.com)
-[![MySite Badge](https://img.shields.io/badge/-Kicap%20Karan-darkred?style=flat-square&link=https://www.kicap-karan.com/)](https://www.kicap-karan.com/)
+[![MySite Badge](https://img.shields.io/badge/-My%Site-darkred?style=flat-square&link=https://www.kicap-karan.com/)](https://www.kicap-karan.com/)
 
 ## ⚡ Tech That I Know
 
