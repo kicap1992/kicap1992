@@ -2,10 +2,6 @@
 
 I am Adrianus Aransina T, my friend call me Aran, currently working as freelancer software developer.  Find out more about me & feel free to connect with me here:
 
- [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/kicap-karan-85588b203/)](https://www.linkedin.com/in/kicap-karan-85588b203/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kicap_karan/)](https://www.instagram.com/kicap_karan/)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC1mGRXTGGyXo0WwFwDCARig)](https://www.youtube.com/channel/UC1mGRXTGGyXo0WwFwDCARig)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kicap.karan92@gmail.com)](mailto:kicap.karan92@gmail.com)
 
 ## ⚡ Tech That I Know
 
