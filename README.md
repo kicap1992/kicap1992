@@ -1,6 +1,6 @@
 ## Hello There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px">
 
-I am Adrianus Aransina T, my friend call me Aran, currently working as freelancer software developer.  Find out more about me & feel free to connect with me here:
+I am Adrianus Aransina T, my friend call me Aran :
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kicap%20Karan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kicap-karan-85588b203/)](https://www.linkedin.com/in/kicap-karan-85588b203/)
 [![Instagram Badge](https://img.shields.io/badge/-Kicap%20Karan-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kicap_karan/)](https://www.instagram.com/kicap_karan/)
